@@ -1,0 +1,14 @@
+#conditions-header {
+    background: url('../assets/images/cat-1044914_1920.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#conditions-page {
+    min-height: calc(100vh - 694px);
+}
+
+#welcome-text {
+    color: #82b1ff;
+}

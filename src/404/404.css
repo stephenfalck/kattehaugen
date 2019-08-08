@@ -1,0 +1,10 @@
+#page404{
+    min-height: calc(100vh - 594px);
+}
+
+#header-404 {
+    background: url('../assets/images/cat-4189697_1920.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

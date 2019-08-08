@@ -1,0 +1,10 @@
+#contact-header {
+    background: url('../assets/images/cat-694730_1920.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#contact-page {
+    min-height: calc(100vh - 694px)
+}

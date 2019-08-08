@@ -1,0 +1,14 @@
+#about-header {
+    background: url('../assets/images/adorable-animal-animal-photography-1056251.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.media-link {
+    color: #e91e63;
+}
+
+#about-page {
+    min-height: calc(100vh - 694px)
+}

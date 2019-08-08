@@ -1,0 +1,35 @@
+#gallery-header {
+    background: url('../assets/images//adorable-animal-bed-236606 copy 2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#gallery-page {
+    min-height: calc(100vh - 694px)
+}
+
+.gallery-tabs {
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+    border: 0;
+    padding: .7rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: -20px;
+    /* background-color: #42a5f5; */
+    background-color: #82b1ff;
+    z-index: 1;
+    position: relative;
+    border-radius: .25rem;
+}
+
+.gallery-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: .25rem;
+}
+
+.tab-links {
+    color: white;
+}
