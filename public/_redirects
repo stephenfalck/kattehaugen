@@ -1,1 +1,5 @@
+#redirect typed routes to react router from netlify
 /*    /index.html   200
+
+# Redirect default Netlify subdomain to primary domain
+https://angry-heyrovsky-d714e3.netlify.com/* https://kattehaugenkattehotell.no/:splat 301!
